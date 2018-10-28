@@ -1,4 +1,4 @@
-﻿using Kelompok5.Model;
+using Kelompok5.Model;
 using SQLite;
 using System;
 using System.Collections.Generic;
@@ -13,7 +13,6 @@ namespace Kelompok5.View
     public class HalamanEditData : ContentPage
     {
         private ListView _listView;
-        private Entry _id;
         private Entry _name;
         private Entry _departemen;
         private Button _save;
@@ -25,7 +24,6 @@ namespace Kelompok5.View
         private void _listView_ItemSelected(object sender, SelectedItemChangedEventArgs e)
         {
             _datamahasiswa = (DataMahasiswa)e.SelectedItem;
-            _id.Text = _datamahasiswa.Id.ToString();
             _name.Text = _datamahasiswa.Nama;
             _departemen.Text = _datamahasiswa.Jurusan;
         }
@@ -35,7 +33,7 @@ namespace Kelompok5.View
             var db = new SQLiteConnection(_dbPath);
             DataMahasiswa dataMahasiswa = new DataMahasiswa()
             {
-                Id = Convert.ToInt32(_id.Text),
+                Id = _datamahasiswa.Id,
                 Nama = _name.Text,
                 Jurusan = _departemen.Text
             };
@@ -56,11 +54,6 @@ namespace Kelompok5.View
             _listView.ItemsSource = db.Table<DataMahasiswa>().OrderBy(x => x.Nama).ToList();
             _listView.ItemSelected += _listView_ItemSelected;
             stackLayout.Children.Add(_listView);
-
-            _id = new Entry();
-            _id.Placeholder = "ID";
-            _id.IsVisible = false;
-            stackLayout.Children.Add(_id);
 
             _name = new Entry();
             _name.Keyboard = Keyboard.Text;

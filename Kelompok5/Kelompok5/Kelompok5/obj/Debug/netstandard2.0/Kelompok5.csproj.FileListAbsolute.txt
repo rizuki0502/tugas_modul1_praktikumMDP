@@ -1,0 +1,26 @@
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5\bin\Debug\netstandard2.0\Kelompok5.deps.json
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5\bin\Debug\netstandard2.0\Kelompok5.dll
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5\bin\Debug\netstandard2.0\Kelompok5.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5\obj\Debug\netstandard2.0\Kelompok5.csprojAssemblyReference.cache
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5\obj\Debug\netstandard2.0\Kelompok5.csproj.CoreCompileInputs.cache
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5\obj\Debug\netstandard2.0\Kelompok5.App.xaml.g.cs
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5\obj\Debug\netstandard2.0\Kelompok5.LoginPage.xaml.g.cs
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5\obj\Debug\netstandard2.0\Kelompok5.MainPage.xaml.g.cs
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5\obj\Debug\netstandard2.0\Kelompok5.SignUpPage.xaml.g.cs
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5\obj\Debug\netstandard2.0\Kelompok5.AssemblyInfoInputs.cache
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5\obj\Debug\netstandard2.0\Kelompok5.AssemblyInfo.cs
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5\obj\Debug\netstandard2.0\Kelompok5.dll
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5\obj\Debug\netstandard2.0\Kelompok5.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5\bin\Debug\netstandard2.0\Kelompok5.deps.json
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5\bin\Debug\netstandard2.0\Kelompok5.dll
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5\bin\Debug\netstandard2.0\Kelompok5.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5\obj\Debug\netstandard2.0\Kelompok5.csprojAssemblyReference.cache
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5\obj\Debug\netstandard2.0\Kelompok5.csproj.CoreCompileInputs.cache
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5\obj\Debug\netstandard2.0\Kelompok5.App.xaml.g.cs
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5\obj\Debug\netstandard2.0\Kelompok5.LoginPage.xaml.g.cs
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5\obj\Debug\netstandard2.0\Kelompok5.MainPage.xaml.g.cs
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5\obj\Debug\netstandard2.0\Kelompok5.SignUpPage.xaml.g.cs
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5\obj\Debug\netstandard2.0\Kelompok5.AssemblyInfoInputs.cache
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5\obj\Debug\netstandard2.0\Kelompok5.AssemblyInfo.cs
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5\obj\Debug\netstandard2.0\Kelompok5.dll
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5\obj\Debug\netstandard2.0\Kelompok5.pdb

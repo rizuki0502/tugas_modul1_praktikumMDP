@@ -1,0 +1,213 @@
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\Kelompok5.Android.dll
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\Kelompok5.Android.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\com.companyname.Kelompok5.apk
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\com.companyname.Kelompok5-Signed.apk
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\Kelompok5.dll
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\Kelompok5.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\Kelompok5.dll.mdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\Kelompok5.Android.csprojAssemblyReference.cache
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\res.flag
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\Kelompok5.Android.csproj.CoreCompileInputs.cache
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\Kelompok5.Android.csproj.CopyComplete
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\Kelompok5.Android.dll
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\Kelompok5.Android.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\android\bin\com.companyname.Kelompok5.apk
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\res\layout\tabbar.xml
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\res\layout\toolbar.xml
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\res\values\styles.xml
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\res\values\colors.xml
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\res\mipmap-anydpi-v26\icon.xml
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\res\mipmap-anydpi-v26\icon_round.xml
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\res\mipmap-hdpi\icon.png
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\res\mipmap-hdpi\launcher_foreground.png
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\res\mipmap-mdpi\icon.png
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\res\mipmap-mdpi\launcher_foreground.png
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\res\mipmap-xhdpi\icon.png
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\res\mipmap-xhdpi\launcher_foreground.png
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\res\mipmap-xxhdpi\icon.png
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\res\mipmap-xxhdpi\launcher_foreground.png
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\res\mipmap-xxxhdpi\icon.png
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\R.cs.flag
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\R.txt
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\uploadflags.txt
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\Mono.Android.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\Mono.Security.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\mscorlib.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\System.Core.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\System.Data.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\System.IO.Compression.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\System.Net.Http.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\System.Numerics.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\System.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\System.Transactions.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\System.Web.Services.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\System.Xml.Linq.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\System.Xml.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\linksrc\Kelompok5.Android.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\linksrc\Mono.Android.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\linksrc\mscorlib.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\linksrc\System.Core.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\linksrc\System.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\linksrc\System.Xml.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\linksrc\System.Xml.Linq.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\linksrc\System.Data.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\linksrc\System.Numerics.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\linksrc\System.Transactions.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\linksrc\System.IO.Compression.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\linksrc\System.Net.Http.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\linksrc\System.Runtime.Serialization.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\linksrc\System.Web.Services.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\linksrc\Mono.Security.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\linksrc\FormsViewGroup.dll.mdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\linksrc\Kelompok5.dll.mdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\linksrc\Xamarin.Forms.Core.dll.mdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\linksrc\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\android\assets\Kelompok5.dll.mdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\android\assets\Kelompok5.Android.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\android\assets\Mono.Android.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\android\assets\Mono.Security.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\android\assets\mscorlib.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\android\assets\System.Core.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\android\assets\System.Data.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\android\assets\System.IO.Compression.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\android\assets\System.Net.Http.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\android\assets\System.Numerics.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\android\assets\System.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\android\assets\System.Runtime.Serialization.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\android\assets\System.Transactions.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\android\assets\System.Web.Services.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\android\assets\System.Xml.Linq.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\android\assets\System.Xml.pdb
+C:\Users\Rizki\source\repos\Kelompok5\Kelompok5\Kelompok5\bin\Debug\netstandard2.0\Kelompok5.dll
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\Kelompok5.Android.dll
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\Kelompok5.Android.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\com.companyname.Kelompok5.apk
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\com.companyname.Kelompok5-Signed.apk
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\Kelompok5.dll
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\Kelompok5.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\Kelompok5.dll.mdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\Kelompok5.Android.csprojAssemblyReference.cache
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\res.flag
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\Kelompok5.Android.csproj.CoreCompileInputs.cache
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\Kelompok5.Android.csproj.CopyComplete
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\Kelompok5.Android.dll
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\Kelompok5.Android.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\android\bin\com.companyname.Kelompok5.apk
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\res\layout\tabbar.xml
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\res\layout\toolbar.xml
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\res\values\styles.xml
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\res\values\colors.xml
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\res\mipmap-anydpi-v26\icon.xml
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\res\mipmap-anydpi-v26\icon_round.xml
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\res\mipmap-hdpi\icon.png
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\res\mipmap-hdpi\launcher_foreground.png
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\res\mipmap-mdpi\icon.png
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\res\mipmap-mdpi\launcher_foreground.png
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\res\mipmap-xhdpi\icon.png
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\res\mipmap-xhdpi\launcher_foreground.png
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\res\mipmap-xxhdpi\icon.png
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\res\mipmap-xxhdpi\launcher_foreground.png
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\res\mipmap-xxxhdpi\icon.png
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\res\mipmap-xxxhdpi\launcher_foreground.png
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\R.cs.flag
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\R.txt
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\uploadflags.txt
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\Mono.Android.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\Mono.Security.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\mscorlib.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\System.ComponentModel.Composition.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\System.Core.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\System.Data.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\System.IO.Compression.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\System.Net.Http.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\System.Numerics.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\System.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\System.Runtime.Serialization.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\System.ServiceModel.Internals.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\System.Transactions.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\System.Web.Services.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\System.Xml.Linq.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\System.Xml.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\FormsViewGroup.dll.mdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\android\assets\FormsViewGroup.dll.mdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\android\assets\Kelompok5.dll.mdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Core.dll.mdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Xaml.dll.mdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\android\assets\Kelompok5.Android.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\android\assets\Mono.Android.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\android\assets\Mono.Security.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\android\assets\mscorlib.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\android\assets\System.ComponentModel.Composition.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\android\assets\System.Core.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\android\assets\System.Data.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\android\assets\System.IO.Compression.FileSystem.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\android\assets\System.IO.Compression.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\android\assets\System.Net.Http.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\android\assets\System.Numerics.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\android\assets\System.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\android\assets\System.Runtime.Serialization.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\android\assets\System.ServiceModel.Internals.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\android\assets\System.Transactions.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\android\assets\System.Web.Services.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\android\assets\System.Xml.Linq.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\android\assets\System.Xml.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\linksrc\FormsViewGroup.dll.mdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\linksrc\Kelompok5.dll.mdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\linksrc\Xamarin.Forms.Core.dll.mdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\linksrc\Xamarin.Forms.Xaml.dll.mdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\linksrc\Kelompok5.Android.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\linksrc\Mono.Android.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\linksrc\Mono.Security.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\linksrc\mscorlib.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\linksrc\System.ComponentModel.Composition.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\linksrc\System.Core.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\linksrc\System.Data.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\linksrc\System.IO.Compression.FileSystem.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\linksrc\System.IO.Compression.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\linksrc\System.Net.Http.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\linksrc\System.Numerics.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\linksrc\System.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\linksrc\System.Runtime.Serialization.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\linksrc\System.ServiceModel.Internals.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\linksrc\System.Transactions.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\linksrc\System.Web.Services.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\linksrc\System.Xml.Linq.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\linksrc\System.Xml.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5\bin\Debug\netstandard2.0\Kelompok5.dll
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\linksrc\Kelompok5.Android.pdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\bin\Debug\Kelompok5.dll.mdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\linksrc\FormsViewGroup.dll.mdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\linksrc\Kelompok5.dll.mdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\linksrc\Xamarin.Forms.Core.dll.mdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Drive\Synced\Kuliah\Praktikum MDP\modul 1\Kelompok5(github)\Kelompok5\Kelompok5\Kelompok5.Android\obj\Debug\MonoAndroid81\linksrc\Xamarin.Forms.Xaml.dll.mdb
